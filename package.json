@@ -44,7 +44,7 @@
     "appium-adb": "^7.4.0",
     "appium-android-driver": "^4.19.1",
     "appium-base-driver": "^4.0.0",
-    "appium-support": "^2.33.0",
+    "appium-support": "^2.35.2",
     "appium-uiautomator2-server": "^4.4.0",
     "async-lock": "^1.2.2",
     "asyncbox": "^2.3.1",
